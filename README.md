@@ -2,9 +2,9 @@
 # Dylan
 ### he/him
 
-#### - 🔭 I’m not working on anything currently.
-#### - 🌱 I’m currently learning Computer and Network Security in school!
-#### - 📚 I've learned Python, HTML, and CSS. However, I wouldn't say I'm amazing at any of them.
+#### - 🔭 I’m working on getting a job.
+#### - 🌱 I’m currently looking into colleges!
+#### - 📚 I've learned Python, HTML, and CSS.
 #### - 👯 I’m not looking to collaborate currently.
 #### - 📫 How to reach me: dylan@dylanh.dev or Dilll#3130 on Discord!
 
