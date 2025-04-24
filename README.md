@@ -3,5 +3,5 @@
 </p>
 
 ### yo
-- I'm a hobbyist developer that has recently been working on small projects for [Gate](https://gate.minekube.com/)!
+- I'm a hobbyist developer and I've been recently trying to balance keeping a job and getting my BS in Computer Science!
 - If you wanna reach me feel free to reach out to anything on my [website](https://dylanh.dev)!
